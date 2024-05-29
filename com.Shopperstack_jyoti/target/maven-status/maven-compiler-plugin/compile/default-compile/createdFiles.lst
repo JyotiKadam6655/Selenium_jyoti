@@ -1,0 +1,13 @@
+com\Shopperstack_POM\AddressForm_Page.class
+com\ShopperStack\GenericUtility\FrameWorkConstants.class
+com\Shopperstack_POM\EditAddress_Page.class
+com\Shopperstack_POM\MyProfile_Page.class
+com\ShopperStack\GenericUtility\File_Utility.class
+com\Shopperstack_POM\Login_Page.class
+com\ShopperStack\GenericUtility\Listener_Utility.class
+com\Shopperstack_POM\MyAddress_Page.class
+com\Shopperstack_POM\Home_Page.class
+com\Shopperstack_POM\Welcome_Page.class
+com\ShopperStack\GenericUtility\BaseTest.class
+com\ShopperStack\GenericUtility\Webdriver_Utility.class
+com\ShopperStack\GenericUtility\Java_Utility.class
